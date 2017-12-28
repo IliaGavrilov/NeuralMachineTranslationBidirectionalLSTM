@@ -1,6 +1,6 @@
 # NeuralMachineTranslation
 - Feature forcing
-- Attenrion model
+- Attention model
 - Pytorch (incl. broadcasting)
 - Using CPU
 - 
