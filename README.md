@@ -6,7 +6,7 @@
 - Keras Functional API; 
 - Pytorch (incl. broadcasting);
 
-- Code is based on the course fast.ai MOOC (https://github.com/fastai):
+- Code is based on the [fast.ai](https://github.com/fastai) MOOC:
     - French-English parallel corpus;
     - GloVe word vectors;
-    - 
+    
