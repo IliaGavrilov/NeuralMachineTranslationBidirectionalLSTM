@@ -5,3 +5,4 @@ Feature forcing
 - Pytorch (incl. broadcasting)
 - Using CPU
 - 
+Translation Bidirectional LSTM model based on French-English parallel corpus and GloVe word vectors
