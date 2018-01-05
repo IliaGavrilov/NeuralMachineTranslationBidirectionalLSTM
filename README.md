@@ -4,7 +4,7 @@
 - Neural Machine Translation;
 
 - Keras Functional API; 
-- Pytorch (incl. broadcasting);
+- PyTorch (incl. broadcasting);
 
 - Code is based on the [fast.ai](https://github.com/fastai) MOOC:
     - French-English parallel corpus;
