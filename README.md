@@ -5,6 +5,7 @@
 
 - Keras Functional API; 
 - PyTorch (incl. broadcasting);
+- Gensim;
 
 - Code is based on the [fast.ai](https://github.com/fastai) MOOC:
     - French-English parallel corpus;
